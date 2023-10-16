@@ -8,6 +8,6 @@
 # Pinball
 
 ## um spilið
-
+Spilið gengur upp á það að ná eins mörgum stigum og þú getur. Ef boltinn fer út af spilinu þá tapar þú.
 
 
