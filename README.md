@@ -4,5 +4,7 @@ Lokaverkefni Vesm1
 
 ![pinball svg 2023_10_09_14_05_44 0](https://github.com/NidaleNieve/Pinball/assets/62642672/4f603c8d-4b51-4589-9462-6b0431e8fd05)# Pinball
 
+## um spilið
+
 
 
