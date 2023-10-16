@@ -1,3 +1,4 @@
+```py
 from machine import I2C, Pin, PWM
 from I2C_LCD import I2cLcd
 from stepper import mystepmotor
@@ -220,3 +221,4 @@ while True:
             Switch = True
         servo_left_state_before = servo_left_state
         servo_right_state_before = servo_right_state
+```
